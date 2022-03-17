@@ -6,6 +6,7 @@
     <groupId>org.springboot</groupId>
     <artifactId>springboot-api-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>springboot-api-demo</name>
     <description>API Spring Example</description>
